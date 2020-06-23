@@ -42,8 +42,10 @@ it('creates a store hook and api object', () => {
         [Function],
         [Function],
         Object {
+          "createListener": [Function],
           "destroy": [Function],
           "getState": [Function],
+          "listen": [Function],
           "setState": [Function],
           "subscribe": [Function],
         },
@@ -51,8 +53,10 @@ it('creates a store hook and api object', () => {
       "result": Array [
         [Function],
         Object {
+          "createListener": [Function],
           "destroy": [Function],
           "getState": [Function],
+          "listen": [Function],
           "setState": [Function],
           "subscribe": [Function],
         },
